@@ -49,14 +49,17 @@ nav {
   margin-top: 149px;
 }
 .ing {
-  margin-top: 10px;
-  margin-left: 10px;
+    margin-top: -28px;
+    margin-left: -167px;
+    width: 300px;
+    display: flex;
+    position: absolute;
 }
 .title_text {
   font-family: "Lusitana", serif;
 
   position: absolute;
-  margin-top: -769px;
+  margin-top: 0px;
   margin-left: 79px;
   width: 453px;
   color: #6b6b6b;
@@ -72,7 +75,7 @@ nav {
 
 .subtitle_text {
   position: absolute;
-  margin-top: -483px;
+  margin-top: 310px;
   margin-left: 79px;
   color: #6b6b6b;
   text-shadow: rgb(20, 20, 20) 1px 6px 6px;
@@ -95,7 +98,7 @@ nav {
   font-weight: 400;
   line-height: 36px;
   letter-spacing: -0.5px;
-  margin-top: -257px;
+  margin-top: 517px;
   margin-left: 79px;
   width: 824px;
 }
@@ -107,7 +110,7 @@ nav {
   height: 99px;
   background: #4F4C4C;
   margin-top: 888px;
-  margin-left: -670px;
+  margin-left: 63px;
   z-index: 1;
   border-radius: 20px;
   color: white;
@@ -217,7 +220,7 @@ nav {
 
 footer{
   background: #443C3C;
-  margin-top: 4704px;
+  margin-top: 5130px;
   height: 238px;
 }
 
@@ -231,17 +234,17 @@ footer > *{
 .contact_mobile{
   margin-top: 51px;
   position: absolute;
-  margin-left: 1261px;
+  margin-left: 1081px;
 }
 
 .contact_mail{
   position: absolute;
   margin-top: 113px;
-  margin-left: 1261px;
+  margin-left: 1081px;
 }
 
 .social_link{
-  margin-left: 207px;
+  margin-left: 498px;
   position: absolute;
   margin-top: 83px;
 }
